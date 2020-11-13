@@ -1,6 +1,12 @@
 # timer_app
 
-A new Flutter application.
+Timer app created using Flutter dart with stop watch functionality
+
+#Snap Shots of Project
+
+![](Snapshots/shot1.png)
+
+![](Snapshots/shot2.png)
 
 ## Getting Started
 
