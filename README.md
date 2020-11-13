@@ -2,7 +2,7 @@
 
 Timer app created using Flutter dart with stop watch functionality
 
-#Snap Shots of Project
+# Snap Shots of Project
 
 ![](Snapshots/shot1.png)
 
